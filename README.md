@@ -21,4 +21,4 @@ Future updates:
 - Add accesibility to accuracy parameters
 
  
-If you use this code in your work, you must cite the paper: https://arxiv.org/abs/2111.11526.
+If you use this code in your work, please cite the paper: https://arxiv.org/abs/2111.11526.
